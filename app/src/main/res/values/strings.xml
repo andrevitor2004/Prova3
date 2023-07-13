@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">appProva3</string>
+    <string name="tvInfo">Digite o preço do Litro dos Combustíveis:</string>
+    <string name="tvEtanol">Preço Etanol:</string>
+    <string name="tvGasolina">Preço Gasolina:</string>
+    <string name="tvResultado">Resultado:</string>
+    <string name="btCalculo">Calcular</string>
 </resources>
